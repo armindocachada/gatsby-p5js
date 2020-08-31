@@ -127,4 +127,8 @@ const IndexPage = () => (
 
 export default IndexPage
 
+## Resources I have used to put all of this together:
+https://semortea.wordpress.com/2020/04/06/p5-js-with-gatsbyjs-tutorial/
+https://www.gatsbyjs.com/docs/quick-start/
+
 
