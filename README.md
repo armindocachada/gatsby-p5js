@@ -1,5 +1,9 @@
 # Gatsby + p5.js
 
+I have create this Github repository for an Youtube livestream where I learned about p5.js and Gatsby.
+I would recommend you to watch the youtube video in conjuction with this Readme.md file.
+
+https://www.youtube.com/watch?v=twtg1KFU5Yo
 
 ## Install latest node.js for Mac
 Follow this link for steps on how to install the latest version of Nodejs
@@ -109,3 +113,18 @@ import Loadable from "@loadable/component";
 
 export const loadableP5 = Loadable(() => import('react-p5-wrapper'));
 </pre>
+
+### pages/index.js 
+import React from "react";
+import P5 from "../components/p5";
+
+const IndexPage = () => (
+    <div>
+        <P5/>
+    </div>
+
+  )
+
+export default IndexPage
+
+
