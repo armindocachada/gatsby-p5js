@@ -1,6 +1,6 @@
 # Gatsby + p5.js
 
-I have create this Github repository for an Youtube livestream where I learned about p5.js and Gatsby.
+I have created this Github repository for an Youtube livestream where I learned about p5.js and Gatsby.
 I would recommend you to watch the youtube video in conjuction with this Readme.md file.
 
 https://www.youtube.com/watch?v=twtg1KFU5Yo
